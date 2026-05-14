@@ -1,28 +1,36 @@
-## Problema
-Los agricultores no cuentan con un sistema automatizado para monitorear las condiciones del cultivo, lo que provoca baja productividad y desperdicio de agua.
+# AgroSmart 🌱
 
-## Objetivo
-Crear un sistema IoT que permita monitorear:
-- Humedad del suelo
-- Temperatura ambiental
+AgroSmart es un proyecto tecnológico orientado a mejorar la productividad agrícola mediante el monitoreo inteligente de cultivos.
 
-## Tecnologías
+## Problema que aborda
+Muchos agricultores enfrentan baja productividad debido a la falta de monitoreo constante de variables importantes como la humedad del suelo y la temperatura ambiental.
+
+## Solución propuesta
+Desarrollar un sistema IoT capaz de:
+- Monitorear humedad y temperatura en tiempo real.
+- Enviar datos automáticamente.
+- Ayudar a tomar decisiones para optimizar el riego y cuidado del cultivo.
+
+## Tecnologías utilizadas
 - Arduino
 - Python
 - MQTT
+- Sensores de humedad y temperatura
 
-## Tareas
-- Configurar sensores
-- Crear script de lectura en Python
-- Configurar comunicación MQTT
-- Documentar funcionamiento
-- Validar resultados
+## Objetivos
+- Reducir pérdidas en cultivos.
+- Automatizar el monitoreo agrícola.
+- Mejorar la eficiencia del riego.
 
-## Responsables
-
-### DEV
+## Integrantes
 - Cristofer De La Mota
 - Andy Jose Peña Minyety
-
-### QA
 - Cristhian Espinal de la Cruz
+
+## Flujo de trabajo
+El proyecto utiliza:
+- GitHub Issues
+- Branches
+- Pull Requests
+- Revisión QA
+- Trabajo colaborativo
