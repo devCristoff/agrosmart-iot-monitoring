@@ -26,6 +26,8 @@ Desarrollar un sistema IoT capaz de:
 - Cristofer De La Mota
 - Andy Jose Peña Minyety
 - Cristhian Espinal de la Cruz
+- José Vasques
+- Helen Garcia
 
 ## Flujo de trabajo
 El proyecto utiliza:
